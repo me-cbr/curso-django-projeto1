@@ -60,7 +60,7 @@
   },
   "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
   "workbench.iconTheme": "material-icon-theme",
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "off",
   "mypy-type-checker.preferDaemon": true,
   "python.globalModuleInstallation": true,
   "python.terminal.activateEnvInCurrentTerminal": true,
